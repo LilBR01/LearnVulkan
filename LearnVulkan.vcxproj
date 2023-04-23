@@ -155,7 +155,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="test.cpp" />
+    <ClCompile Include="HelloTriangleApplication.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="shader.frag" />
