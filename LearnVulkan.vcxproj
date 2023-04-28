@@ -88,7 +88,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>D:\Vulkan\Include;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\glm\glm-master;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\glfw-3.3.8.bin.WIN64\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Vulkan\Include;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\glm\glm-master;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\glfw-3.3.8.bin.WIN64\include;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\stb;D:\3rdLibrary\tinyobjloader-release;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
@@ -106,7 +106,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>D:\Vulkan\Include;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\glm\glm-master;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\glfw-3.3.8.bin.WIN64\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Vulkan\Include;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\glm\glm-master;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\glfw-3.3.8.bin.WIN64\include;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\stb;D:\3rdLibrary\tinyobjloader-release;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
@@ -124,7 +124,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>D:\Vulkan\Include;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\glm\glm-master;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\glfw-3.3.8.bin.WIN64\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Vulkan\Include;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\glm\glm-master;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\glfw-3.3.8.bin.WIN64\include;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\stb;D:\3rdLibrary\tinyobjloader-release;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
@@ -142,7 +142,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>D:\Vulkan\Include;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\glm\glm-master;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\glfw-3.3.8.bin.WIN64\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Vulkan\Include;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\glm\glm-master;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\glfw-3.3.8.bin.WIN64\include;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Packages\stb;D:\3rdLibrary\tinyobjloader-release;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
